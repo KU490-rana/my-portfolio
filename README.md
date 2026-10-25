@@ -9,7 +9,12 @@ A responsive personal portfolio made with HTML5, Bootstrap 5, custom CSS, and a 
 - Technical skills
 - Three project cards with images and links
 - Contact form
-- Footer with GitHub and live website links
+- Footer with a GitHub link and a Back to top link
+
+## Live website
+
+- [View the deployed portfolio](https://my-portfolio-ku490-rana.vercel.app/)
+- [View the GitHub repository](https://github.com/KU490-rana/my-portfolio)
 
 ## Project demos
 
