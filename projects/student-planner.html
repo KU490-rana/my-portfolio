@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Planner | Kaleemullah</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body class="project-page">
+  <nav class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="../index.html#projects">Kaleemullah</a>
+      <a class="btn btn-outline-light btn-sm" href="../index.html#projects">Back to portfolio</a>
+    </div>
+  </nav>
+  <main class="container py-5">
+    <p class="eyebrow">Practice project</p>
+    <h1 class="display-5 fw-bold">Student Planner</h1>
+    <p class="lead text-secondary mb-4">A small study task list. Add a task, remove it when it is finished, and your list will stay in this browser.</p>
+    <section class="project-preview shadow-sm p-4 p-md-5" aria-labelledby="planner-heading">
+      <h2 id="planner-heading" class="h4 mb-3">My study tasks</h2>
+      <form id="planner-form" class="row g-2 mb-4">
+        <div class="col-sm-9">
+          <label class="visually-hidden" for="task-input">New study task</label>
+          <input class="form-control" id="task-input" type="text" maxlength="120" placeholder="For example, review HTML forms" required>
+        </div>
+        <div class="col-sm-3 d-grid">
+          <button class="btn btn-primary" type="submit">Add task</button>
+        </div>
+      </form>
+      <p id="empty-message" class="text-secondary">No tasks yet. Add one to get started.</p>
+      <ul id="task-list" class="list-group"></ul>
+    </section>
+    <p class="small text-secondary mt-4">This practice demo stores tasks only in your current browser using local storage.</p>
+  </main>
+  <script src="../js/planner.js" defer></script>
+</body>
+</html>
+
