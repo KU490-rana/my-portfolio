@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Weather Snapshot sample screen</title>
+  <rect width="720" height="480" fill="#eef1f4"/>
+  <rect x="44" y="32" width="632" height="416" rx="8" fill="#ffffff" stroke="#d9e0e6"/>
+  <rect x="44" y="32" width="632" height="50" rx="8" fill="#f8f9fa"/>
+  <circle cx="67" cy="57" r="5" fill="#c2c9d0"/><circle cx="84" cy="57" r="5" fill="#c2c9d0"/><circle cx="101" cy="57" r="5" fill="#c2c9d0"/>
+  <text x="78" y="128" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#1f2933">Today’s weather</text>
+  <text x="78" y="154" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#5d6873">Local forecast</text>
+  <circle cx="151" cy="240" r="36" fill="#e7b96e"/>
+  <path d="M139 247c0-12 10-21 22-21 10 0 18 6 21 15 11 0 19 8 19 18s-8 17-19 17h-40c-11 0-19-7-19-17 0-7 6-13 16-12z" fill="#dce4eb" stroke="#aebbc7" stroke-width="2"/>
+  <text x="245" y="234" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#1f2933">24°</text>
+  <text x="248" y="262" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#5d6873">Partly cloudy</text>
+  <line x1="78" y1="307" x2="642" y2="307" stroke="#e3e7eb"/>
+  <text x="78" y="342" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#5d6873">FORECAST</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#5d6873" text-anchor="middle">
+    <text x="145" y="377">Now</text><text x="270" y="377">10 AM</text><text x="395" y="377">12 PM</text><text x="520" y="377">2 PM</text><text x="625" y="377">4 PM</text>
+    <text x="145" y="407" fill="#1f2933">24°</text><text x="270" y="407" fill="#1f2933">26°</text><text x="395" y="407" fill="#1f2933">27°</text><text x="520" y="407" fill="#1f2933">25°</text><text x="625" y="407" fill="#1f2933">23°</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Portfolio website sample screen</title>
+  <rect width="720" height="480" fill="#eef1f4"/>
+  <rect x="44" y="32" width="632" height="416" rx="8" fill="#ffffff" stroke="#d9e0e6"/>
+  <rect x="44" y="32" width="632" height="50" rx="8" fill="#f8f9fa"/>
+  <circle cx="67" cy="57" r="5" fill="#c2c9d0"/><circle cx="84" cy="57" r="5" fill="#c2c9d0"/><circle cx="101" cy="57" r="5" fill="#c2c9d0"/>
+  <text x="78" y="116" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1f2933">Kaleemullah</text>
+  <text x="475" y="116" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#5d6873">ABOUT  PROJECTS  CONTACT</text>
+  <text x="78" y="190" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#315e87">SOFTWARE ENGINEERING STUDENT</text>
+  <text x="78" y="238" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Hi, I’m Kaleemullah.</text>
+  <rect x="78" y="258" width="300" height="8" rx="4" fill="#d9e0e6"/><rect x="78" y="277" width="265" height="8" rx="4" fill="#d9e0e6"/>
+  <rect x="78" y="309" width="121" height="34" rx="5" fill="#315e87"/>
+  <rect x="457" y="152" width="143" height="176" rx="5" fill="#e8edf1" stroke="#d9e0e6"/>
+  <circle cx="529" cy="206" r="27" fill="#c8d0d6"/>
+  <path d="M482 294c6-36 23-53 47-53s42 17 47 53" fill="#c8d0d6"/>
+  <text x="78" y="391" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#1f2933">Education</text>
+  <text x="78" y="415" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5d6873">Software Engineering</text>
+</svg>

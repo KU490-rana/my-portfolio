@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Student Planner sample screen</title>
+  <rect width="720" height="480" fill="#eef1f4"/>
+  <rect x="44" y="32" width="632" height="416" rx="8" fill="#ffffff" stroke="#d9e0e6"/>
+  <rect x="44" y="32" width="632" height="50" rx="8" fill="#f8f9fa"/>
+  <circle cx="67" cy="57" r="5" fill="#c2c9d0"/><circle cx="84" cy="57" r="5" fill="#c2c9d0"/><circle cx="101" cy="57" r="5" fill="#c2c9d0"/>
+  <text x="78" y="126" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#1f2933">Weekly tasks</text>
+  <text x="78" y="151" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#5d6873">A simple study planner</text>
+  <rect x="78" y="177" width="564" height="43" rx="4" fill="#f4f6f8"/>
+  <text x="94" y="204" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#5d6873">TASK</text>
+  <text x="482" y="204" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#5d6873">DUE</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2933">
+    <rect x="78" y="230" width="564" height="52" fill="#ffffff" stroke="#e3e7eb"/><rect x="98" y="248" width="15" height="15" rx="2" fill="#ffffff" stroke="#9ba7b2"/><text x="128" y="260">Review class notes</text><text x="482" y="260" fill="#5d6873">Monday</text>
+    <rect x="78" y="282" width="564" height="52" fill="#ffffff" stroke="#e3e7eb"/><rect x="98" y="300" width="15" height="15" rx="2" fill="#ffffff" stroke="#9ba7b2"/><text x="128" y="312">Finish programming exercise</text><text x="482" y="312" fill="#5d6873">Wednesday</text>
+    <rect x="78" y="334" width="564" height="52" fill="#ffffff" stroke="#e3e7eb"/><rect x="98" y="352" width="15" height="15" rx="2" fill="#ffffff" stroke="#9ba7b2"/><text x="128" y="364">Prepare for quiz</text><text x="482" y="364" fill="#5d6873">Friday</text>
+  </g>
+</svg>
